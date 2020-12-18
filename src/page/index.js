@@ -9,7 +9,7 @@ import ReactJs from '../assets/ReactJs.png';
 import { ContainerBase, ContainerRow, ContainerColumn } from './styles';
 import { ContainerPortuguese, ContainerEnglish, ContainerC, ContainerJava, ContainerJavaScript, ContainerPython, ContainerExperience, ContainerReactJs } from './styles';
 
-{/* autor: Pedro H. Z. Costa - last update: 12/09/2020 */}
+{/* autor: Pedro H. Z. Costa - last update: 12/18/2020 */}
 
 export default function Index() {
     return (
