@@ -8,7 +8,7 @@ const GlobalStyle = createGlobalStyle`
     color: #FFFFFF;
 
     ::-webkit-scrollbar { background: #1E1E1E; }
-    ::-webkit-scrollbar-thumb {background: #3C3C3C; }
+    ::-webkit-scrollbar-thumb { background: #3C3C3C; }
   }
 `;
 
