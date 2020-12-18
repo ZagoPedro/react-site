@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+## PT-BR
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+------------------------------------------------------------------------------------------
 
-## Available Scripts
+# Bem-vindo ao meu site de informações pessoais!
 
-In the project directory, you can run:
+:small_blue_diamond: site programado por mim mesmo em ReactJs.
 
-### `yarn start`
+:small_orange_diamond: utiliza a extensão Styled-Components, por Jullien Poissonnier.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+:small_blue_diamond: não utiliza nenhum template, escrevi o código do zero.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+:small_orange_diamond: originalmente, eu tive problemas ao tentar publicar este site no GitHub, então reescrevi ele em HTML/CSS básico para deixar temporariamente no lugar. Caso tenha interesse em olhar: https://zagopedro.github.io/.
 
-### `yarn test`
+:small_blue_diamond: atualmente funcionando bem nos navegadores Google Chrome, Firefox e Safari (versões de Desktop). Optimização para mobile em desenvolvimento...
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+:small_orange_diamond: última atualização: 18/12/2020.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## EN-US
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+------------------------------------------------------------------------------------------
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Welcome to my website of personal informations!
 
-### `yarn eject`
+:small_blue_diamond: website written by myself in ReactJs.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+:small_orange_diamond: it uses the extension Styled-Components, by Jullien Poissonnier.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+:small_blue_diamond: it does not uses any templates, I coded it from zero.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+:small_orange_diamond: originally, I had a few problems uploading it to GitHub, so I rewrited it in basic HTML/CSS as a temporary substitute. If you wish to have a look: https://zagopedro.github.io/.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+:small_blue_diamond: currently working properly on the Google Chrome, Firefox and Safari browsers (Desktop). Mobile optimization in development...
 
-## Learn More
+:small_orange_diamond: last update: 12/18/2020.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
