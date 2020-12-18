@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-{/* autor: Pedro H. Z. Costa - last update: 12/09/2020 */}
+{/* autor: Pedro H. Z. Costa - last update: 12/18/2020 */}
 
 export const ContainerBase = styled.div`
     display: flex;
