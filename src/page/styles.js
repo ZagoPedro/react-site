@@ -227,7 +227,7 @@ export const ContainerPython = styled.div`
     width: 87.5%;
     background-image: linear-gradient(to right, #3C3C3C, #1E1E1E);
     border-radius: 10px;
-    border: 0.54vh solid white;
+    border: 0.54vh solid #FFD637;
     text-align: center;
 
     h4 { 
