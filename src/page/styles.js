@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-{/* autor: Pedro H. Z. Costa - last update: 12/09/2020 */}
+{/* autor: Pedro H. Z. Costa - last update: 12/21/2020 */}
 
 export const ContainerBase = styled.div`
     display: flex;
@@ -16,7 +16,6 @@ export const ContainerRow = styled.div`
 export const ContainerColumn = styled.div`
     display: flex;
     flex-direction: column;
-    height: 90%;
     width: 50%;
     align-items: center;
 `;
@@ -29,6 +28,7 @@ export const ContainerPortuguese = styled.div`
     border-radius: 10px;
     border: 0.6vh solid #3C3C3C;
     text-align: center;
+    overflow: auto;
 
     h1 {
         color: #FFCA00;
@@ -41,7 +41,7 @@ export const ContainerPortuguese = styled.div`
     }
 
     h4 { 
-        margin-bottom: 4px;
+        margin-bottom: 0.4vh;
         margin-inline-start: 0px;
         margin-block-start: 0px; 
     }
@@ -57,6 +57,7 @@ export const ContainerEnglish = styled.div`
     border-radius: 10px;
     border: 0.6vh solid #3C3C3C;
     text-align: center;
+    overflow: auto;
 
     h1 {
         color: #3C3B6E;
@@ -69,7 +70,7 @@ export const ContainerEnglish = styled.div`
     }
 
     h4 { 
-        margin-bottom: 4px;
+        margin-bottom: 0.4vh;
         margin-inline-start: 0px;
         margin-block-start: 0px; 
     }
@@ -228,6 +229,54 @@ export const ContainerPython = styled.div`
     background-image: linear-gradient(to right, #3C3C3C, #1E1E1E);
     border-radius: 10px;
     border: 0.54vh solid #FFD637;
+    text-align: center;
+
+    h4 { 
+        font-size: 1.05vw;
+        margin-bottom: 4px;
+        margin-inline-start: 1.5vh;
+        margin-block-start: 2.3vh;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 
+    }
+
+    h5 {
+        font-size: 1.05vw;
+        margin-bottom: 4px;
+        margin-inline-start: 4.5vh;
+        margin-block-start: 2.3vh;
+        font-weight: normal;
+        text-align: center;
+    }
+
+    h6 {
+        font-size: 1.05vw;
+        color: #4EC9B0;
+        margin-bottom: 4px;
+        margin-inline-start: 1vh;
+        margin-block-start: 2.3vh;
+        font-weight: normal;
+        text-align: center;
+    }
+
+    img {
+        height: 6vh;
+        width: 6vh;
+        border-radius: 50%;
+        margin-top: 0.6vh;
+        margin-right: 1.2vh;
+        margin-left: 1.2vh;
+    }
+
+    :hover { box-shadow:  0 0 15px #FFFFFF; }
+`;
+
+export const ContainerGit = styled.div`
+    margin-top: 1.25vh;
+    height: 10%;
+    width: 87.5%;
+    background-image: linear-gradient(to right, #3C3C3C, #1E1E1E);
+    border-radius: 10px;
+    border: 0.54vh solid #F05033;
     text-align: center;
 
     h4 { 
