@@ -13,7 +13,7 @@
 
 :small_blue_diamond: atualmente funcionando bem nos navegadores desktop Google Chrome, Firefox, Safari, Microsoft Edge (última versão) e Opera. Optimização para mobile em desenvolvimento...
 
-:small_orange_diamond: última atualização: 18/12/2020.
+:small_orange_diamond: última atualização: 21/12/2020.
 
 
 ## EN-US
@@ -31,5 +31,5 @@
 
 :small_blue_diamond: currently working properly on the Google Chrome, Firefox, Safari, Microsoft Edge (last version) and Opera desktop browsers. Mobile optimization in development...
 
-:small_orange_diamond: last update: 12/18/2020.
+:small_orange_diamond: last update: 12/21/2020.
 
