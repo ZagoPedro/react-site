@@ -11,9 +11,9 @@
 
 :small_orange_diamond: originalmente, eu tive problemas ao tentar publicar este site no GitHub, então reescrevi ele em HTML/CSS básico para deixar temporariamente no lugar. Caso tenha interesse em olhar: https://zagopedro.github.io/.
 
-:small_blue_diamond: atualmente funcionando bem nos navegadores desktop Google Chrome, Firefox, Safari, Microsoft Edge (última versão) e Opera. Optimização para mobile em desenvolvimento...
+:small_blue_diamond: atualmente funcionando bem nos navegadores desktop Google Chrome, Firefox, Safari, Microsoft Edge (última versão) e Opera. Funciona também em smartphones com iOS ou Android atualizados.
 
-:small_orange_diamond: última atualização: 21/12/2020.
+:small_orange_diamond: última atualização: 22/12/2020.
 
 
 ## EN-US
@@ -29,7 +29,7 @@
 
 :small_orange_diamond: originally, I had a few problems uploading it to GitHub, so I rewrited it in basic HTML/CSS as a temporary substitute. If you wish to have a look: https://zagopedro.github.io/.
 
-:small_blue_diamond: currently working properly on the Google Chrome, Firefox, Safari, Microsoft Edge (last version) and Opera desktop browsers. Mobile optimization in development...
+:small_blue_diamond: currently working properly on the Google Chrome, Firefox, Safari, Microsoft Edge (last version) and Opera desktop browsers. Also works in up to date iOS and Android smartphones.
 
-:small_orange_diamond: last update: 12/21/2020.
+:small_orange_diamond: last update: 12/22/2020.
 
