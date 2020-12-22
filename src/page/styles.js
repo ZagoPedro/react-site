@@ -1,11 +1,16 @@
 import styled from "styled-components";
 
-{/* autor: Pedro H. Z. Costa - last update: 12/21/2020 */}
+{/* autor: Pedro H. Z. Costa - last update: 12/22/2020 */}
 
 export const ContainerBase = styled.div`
     display: flex;
     justify-content: space-around;
     height: 100vh;
+
+    @media (max-width: 960px) {
+        flex-direction: column;
+        height: auto;
+    }
 `;
 
 export const ContainerRow = styled.div`
@@ -18,6 +23,11 @@ export const ContainerColumn = styled.div`
     flex-direction: column;
     width: 50%;
     align-items: center;
+
+    @media (max-width: 960px) { 
+        width: auto;
+        margin-bottom: 4.5vh;
+    }
 `;
 
 export const ContainerPortuguese = styled.div`
