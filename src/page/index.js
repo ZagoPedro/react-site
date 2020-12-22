@@ -4,12 +4,13 @@ import C from '../assets/C.png';
 import Python from '../assets/Python.png';
 import Java from '../assets/Java.png';
 import JavaScript from '../assets/JavaScript.png';
+import Git from '../assets/Git.png';
 import ReactJs from '../assets/ReactJs.png';
 
 import { ContainerBase, ContainerRow, ContainerColumn } from './styles';
-import { ContainerPortuguese, ContainerEnglish, ContainerC, ContainerJava, ContainerJavaScript, ContainerPython, ContainerExperience, ContainerReactJs } from './styles';
+import { ContainerPortuguese, ContainerEnglish, ContainerC, ContainerJava, ContainerJavaScript, ContainerGit, ContainerPython, ContainerExperience, ContainerReactJs } from './styles';
 
-{/* autor: Pedro H. Z. Costa - last update: 12/18/2020 */}
+{/* autor: Pedro H. Z. Costa - last update: 12/21/2020 */}
 
 export default function Index() {
     return (
@@ -55,6 +56,14 @@ export default function Index() {
                             <h6> básico </h6>
                         </ContainerRow>
                     </ContainerPython>
+                    <ContainerGit>
+                        <ContainerRow>
+                            <img src = {Git} alt = "Git"/>
+                            <h4> Git </h4>
+                            <h5> meu domínio: </h5>
+                            <h6> básico </h6>
+                        </ContainerRow>
+                    </ContainerGit>
                     <ContainerExperience>
                         <h4 style = {{color: "#4EC9B0"}}> Estudos: </h4>
                         <h4> • atualmente estudando Ciência da Computação na FCT - Faculdade de Ciências e Tecnologia - UNESP (desde março de 2018). </h4>
@@ -110,6 +119,14 @@ export default function Index() {
                             <h6> basic </h6>
                         </ContainerRow>
                     </ContainerPython>
+                    <ContainerGit>
+                        <ContainerRow>
+                            <img src = {Git} alt = "Git"/>
+                            <h4> Git </h4>
+                            <h5> my knowledge: </h5>
+                            <h6> basic </h6>
+                        </ContainerRow>
+                    </ContainerGit>
                     <ContainerExperience>
                     <h4 style = {{color: "#4EC9B0"}}> Studies: </h4>
                         <h4> • currently studying Computer Science in FCT - Faculdade de Ciências e Tecnologia - UNESP (since may 2018). </h4>
