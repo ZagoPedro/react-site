@@ -6,6 +6,11 @@ export const ContainerBase = styled.div`
     display: flex;
     justify-content: space-around;
     height: 100vh;
+
+    @media (max-width: 568px) {
+        flex-direction: column;
+        height: auto;
+    }
 `;
 
 export const ContainerRow = styled.div`
@@ -18,6 +23,11 @@ export const ContainerColumn = styled.div`
     flex-direction: column;
     width: 50%;
     align-items: center;
+
+    @media (max-width: 568px) { 
+        width: auto;
+        margin-bottom: 4.5vh;
+    }
 `;
 
 export const ContainerPortuguese = styled.div`
@@ -124,6 +134,23 @@ export const ContainerC = styled.div`
     }
 
     :hover { box-shadow:  0 0 15px #FFFFFF; }
+
+    @media (max-width: 568px) {
+        h4 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+
+        h5 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+
+        h6 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+    }
 `;
 
 export const ContainerJava = styled.div`
@@ -172,6 +199,23 @@ export const ContainerJava = styled.div`
     }
 
     :hover { box-shadow:  0 0 15px #FFFFFF; }
+
+    @media (max-width: 568px) {
+        h4 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+
+        h5 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+
+        h6 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+    }
 `;
 
 export const ContainerJavaScript = styled.div`
@@ -220,6 +264,23 @@ export const ContainerJavaScript = styled.div`
     }
 
     :hover { box-shadow:  0 0 15px #FFFFFF; }
+
+    @media (max-width: 568px) {
+        h4 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+
+        h5 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+
+        h6 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+    }
 `;
 
 export const ContainerPython = styled.div`
@@ -268,6 +329,23 @@ export const ContainerPython = styled.div`
     }
 
     :hover { box-shadow:  0 0 15px #FFFFFF; }
+
+    @media (max-width: 568px) {
+        h4 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+
+        h5 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+
+        h6 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+    }
 `;
 
 export const ContainerGit = styled.div`
@@ -316,6 +394,23 @@ export const ContainerGit = styled.div`
     }
 
     :hover { box-shadow:  0 0 15px #FFFFFF; }
+
+    @media (max-width: 568px) {
+        h4 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+
+        h5 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+
+        h6 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+    }
 `;
 
 export const ContainerExperience = styled.div`
@@ -337,6 +432,10 @@ export const ContainerExperience = styled.div`
     }
 
     :hover { box-shadow:  0 0 15px #FFFFFF; }
+
+    @media (max-width: 568px) {
+        h4 { font-size: 2.8vw; }
+    }
 `;
 
 export const ContainerReactJs = styled.div`
@@ -365,4 +464,11 @@ export const ContainerReactJs = styled.div`
     }
 
     :hover { box-shadow:  0 0 15px #FFFFFF; }
+
+    @media (max-width: 568px) {
+        h4 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+    }
 `;
