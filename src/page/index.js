@@ -10,7 +10,7 @@ import ReactJs from '../assets/ReactJs.png';
 import { ContainerBase, ContainerRow, ContainerColumn } from './styles';
 import { ContainerPortuguese, ContainerEnglish, ContainerC, ContainerJava, ContainerJavaScript, ContainerGit, ContainerPython, ContainerExperience, ContainerReactJs } from './styles';
 
-{/* autor: Pedro H. Z. Costa - last update: 12/25/2020 */}
+{/* autor: Pedro H. Z. Costa - last update: 01/17/2021 */}
 
 export default function Index() {
     return (
@@ -29,7 +29,7 @@ export default function Index() {
                             <img src = {C} alt = "C Language"/>
                             <h4> Linguagem C </h4>
                             <h5> meu domínio: </h5>
-                            <h6> moderado-avançado </h6>
+                            <h6> moderado </h6>
                         </ContainerRow>
                     </ContainerC>
                     <ContainerJava>
@@ -53,7 +53,7 @@ export default function Index() {
                             <img src = {Python} alt = "Python"/>
                             <h4> Python </h4>
                             <h5> meu domínio: </h5>
-                            <h6> básico </h6>
+                            <h6> moderado-básico </h6>
                         </ContainerRow>
                     </ContainerPython>
                     <ContainerGit>
@@ -92,7 +92,7 @@ export default function Index() {
                             <img src = {C} alt = "C Language"/>
                             <h4> C Language </h4>
                             <h5> my knowledge: </h5>
-                            <h6> moderate-advanced </h6>
+                            <h6> moderate </h6>
                         </ContainerRow>
                     </ContainerC>
                     <ContainerJava>
@@ -116,7 +116,7 @@ export default function Index() {
                             <img src = {Python} alt = "Python"/>
                             <h4> Python </h4>
                             <h5> my knowledge: </h5>
-                            <h6> basic </h6>
+                            <h6> moderate-basic </h6>
                         </ContainerRow>
                     </ContainerPython>
                     <ContainerGit>
