@@ -10,7 +10,7 @@ import ReactJs from '../assets/ReactJs.png';
 import { ContainerBase, ContainerRow, ContainerColumn } from './styles';
 import { ContainerPortuguese, ContainerEnglish, ContainerC, ContainerJava, ContainerJavaScript, ContainerGit, ContainerPython, ContainerExperience, ContainerReactJs } from './styles';
 
-{/* autor: Pedro H. Z. Costa - last update: 01/17/2021 */}
+{/* autor: Pedro H. Z. Costa - last update: 04/12/2021 */}
 
 export default function Index() {
     return (
@@ -68,7 +68,7 @@ export default function Index() {
                         <h4 style = {{color: "#4EC9B0"}}> Estudos: </h4>
                         <h4> • atualmente estudando Ciência da Computação na FCT - Faculdade de Ciências e Tecnologia - UNESP (desde março de 2018). </h4>
                         <h4 style = {{color: "#4EC9B0"}}> Trabalho: </h4>
-                        <h4> • atualmente trabalhando na EJComp - Empresa Júnior de Computação (desde junho de 2020). </h4>
+                        <h4> • ex-membro da EJComp - Empresa Júnior de Computação (01/04/2020 - 12/04/2021). </h4>
                         <h4> • atualmente trabalhando para a prefeitura de Presidente Prudente no Laboratório de Testes de Software (desde novembro de 2020). </h4>
                         <h4> <br/> </h4>
                     </ContainerExperience>
@@ -131,7 +131,7 @@ export default function Index() {
                     <h4 style = {{color: "#4EC9B0"}}> Studies: </h4>
                         <h4> • currently studying Computer Science in FCT - Faculdade de Ciências e Tecnologia - UNESP (since may 2018). </h4>
                         <h4 style = {{color: "#4EC9B0"}}> Work: </h4>
-                        <h4> • currently working in EJComp - Empresa Júnior de Computação (since june 2020). </h4>
+                        <h4> • former member of EJComp - Empresa Júnior de Computação (04/01/2020 - 04/12/2021). </h4>
                         <h4> • currently working for the city hall of Presidente Prudente in the Software Testing Lab (since november 2020). </h4>
                         <h4> <br/> </h4>
                     </ContainerExperience>
