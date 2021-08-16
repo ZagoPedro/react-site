@@ -10,7 +10,7 @@ import ReactJs from '../assets/ReactJs.png';
 import { ContainerBase, ContainerRow, ContainerColumn } from './styles';
 import { ContainerPortuguese, ContainerEnglish, ContainerC, ContainerJava, ContainerJavaScript, ContainerGit, ContainerPython, ContainerExperience, ContainerReactJs } from './styles';
 
-{/* autor: Pedro H. Z. Costa - last update: 04/12/2021 */}
+{/* autor: Pedro H. Z. Costa - last update: 08/16/2021 */}
 
 export default function Index() {
     return (
@@ -20,7 +20,7 @@ export default function Index() {
                     <ContainerPortuguese>
                         <h1> PT-BR </h1>
                         <h4> nome: Pedro H. Z. Costa </h4>
-                        <h4> idade: 20 anos </h4>
+                        <h4> idade: 21 anos </h4>
                         <h4> e-mail: pedro_zago.costa@terra.com.br </h4>
                         <h4> GitHub: github.com/ZagoPedro </h4>
                     </ContainerPortuguese>
@@ -83,7 +83,7 @@ export default function Index() {
                     <ContainerEnglish>
                         <h1> EN-US </h1>
                         <h4> name: Pedro H. Z. Costa </h4>
-                        <h4> age: 20 years old </h4>
+                        <h4> age: 21 years old </h4>
                         <h4> e-mail: pedro_zago.costa@terra.com.br </h4>
                         <h4> GitHub: github.com/ZagoPedro </h4>
                     </ContainerEnglish>
