@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-site/static/js/main.0bb6671d.chunk.js",
-    "main.js.map": "/react-site/static/js/main.0bb6671d.chunk.js.map",
+    "main.js": "/react-site/static/js/main.a6f4a12a.chunk.js",
+    "main.js.map": "/react-site/static/js/main.a6f4a12a.chunk.js.map",
     "runtime-main.js": "/react-site/static/js/runtime-main.fb5448ee.js",
     "runtime-main.js.map": "/react-site/static/js/runtime-main.fb5448ee.js.map",
     "static/js/2.3391080c.chunk.js": "/react-site/static/js/2.3391080c.chunk.js",
@@ -10,11 +10,12 @@
     "static/js/2.3391080c.chunk.js.LICENSE.txt": "/react-site/static/js/2.3391080c.chunk.js.LICENSE.txt",
     "static/media/C.d0c6100b.png": "/react-site/static/media/C.d0c6100b.png",
     "static/media/Python.d5a8d4fe.png": "/react-site/static/media/Python.d5a8d4fe.png",
-    "static/media/ReactJs.8d4eaf1f.png": "/react-site/static/media/ReactJs.8d4eaf1f.png"
+    "static/media/ReactJs.8d4eaf1f.png": "/react-site/static/media/ReactJs.8d4eaf1f.png",
+    "static/media/RobotFramework.bee6b654.png": "/react-site/static/media/RobotFramework.bee6b654.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fb5448ee.js",
     "static/js/2.3391080c.chunk.js",
-    "static/js/main.0bb6671d.chunk.js"
+    "static/js/main.a6f4a12a.chunk.js"
   ]
 }
