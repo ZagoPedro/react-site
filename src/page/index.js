@@ -2,15 +2,16 @@ import React from "react";
 
 import C from '../assets/C.png';
 import Python from '../assets/Python.png';
-import Java from '../assets/Java.png';
 import JavaScript from '../assets/JavaScript.png';
+import Java from '../assets/Java.png';
 import Git from '../assets/Git.png';
+import Robot from '../assets/RobotFramework.png';
 import ReactJs from '../assets/ReactJs.png';
 
 import { ContainerBase, ContainerRow, ContainerColumn } from './styles';
-import { ContainerPortuguese, ContainerEnglish, ContainerC, ContainerJava, ContainerJavaScript, ContainerGit, ContainerPython, ContainerExperience, ContainerReactJs } from './styles';
+import { ContainerPortuguese, ContainerEnglish, ContainerC, ContainerPython, ContainerJavaScript, ContainerJava, ContainerGit, ContainerRobot, ContainerExperience, ContainerReactJs } from './styles';
 
-{/* autor: Pedro H. Z. Costa - last update: 08/16/2021 */}
+{/* autor: Pedro H. Z. Costa - last update: 08/17/2021 */}
 
 export default function Index() {
     return (
@@ -32,14 +33,14 @@ export default function Index() {
                             <h6> moderado </h6>
                         </ContainerRow>
                     </ContainerC>
-                    <ContainerJava>
+                    <ContainerPython>
                         <ContainerRow>
-                            <img src = {Java} alt = "Java"/>
-                            <h4> Java </h4>
+                            <img src = {Python} alt = "Python"/>
+                            <h4> Python </h4>
                             <h5> meu domínio: </h5>
-                            <h6> moderado-básico </h6>
+                            <h6> moderado </h6>
                         </ContainerRow>
-                    </ContainerJava>
+                    </ContainerPython>
                     <ContainerJavaScript>
                         <ContainerRow>
                             <img src = {JavaScript} alt = "JavaScript"/>
@@ -48,14 +49,14 @@ export default function Index() {
                             <h6> moderado </h6>
                         </ContainerRow>
                     </ContainerJavaScript>
-                    <ContainerPython>
+                    <ContainerJava>
                         <ContainerRow>
-                            <img src = {Python} alt = "Python"/>
-                            <h4> Python </h4>
+                            <img src = {Java} alt = "Java"/>
+                            <h4> Java </h4>
                             <h5> meu domínio: </h5>
                             <h6> moderado-básico </h6>
                         </ContainerRow>
-                    </ContainerPython>
+                    </ContainerJava>
                     <ContainerGit>
                         <ContainerRow>
                             <img src = {Git} alt = "Git"/>
@@ -64,6 +65,14 @@ export default function Index() {
                             <h6> básico </h6>
                         </ContainerRow>
                     </ContainerGit>
+                    <ContainerRobot>
+                        <ContainerRow>
+                            <img src = {Robot} alt = "Robot Framework"/>
+                            <h4> Robot Framework - testes automatizados </h4>
+                            <h5> meu domínio: </h5>
+                            <h6> moderado </h6>
+                        </ContainerRow>
+                    </ContainerRobot>
                     <ContainerExperience>
                         <h4 style = {{color: "#4EC9B0"}}> Estudos: </h4>
                         <h4> • atualmente estudando Ciência da Computação na FCT - Faculdade de Ciências e Tecnologia - UNESP (desde março de 2018). </h4>
@@ -95,14 +104,14 @@ export default function Index() {
                             <h6> moderate </h6>
                         </ContainerRow>
                     </ContainerC>
-                    <ContainerJava>
+                    <ContainerPython>
                         <ContainerRow>
-                            <img src = {Java} alt = "Java"/>
-                            <h4> Java </h4>
+                            <img src = {Python} alt = "Python"/>
+                            <h4> Python </h4>
                             <h5> my knowledge: </h5>
-                            <h6> moderate-basic </h6>
+                            <h6> moderate </h6>
                         </ContainerRow>
-                    </ContainerJava>
+                    </ContainerPython>
                     <ContainerJavaScript>
                         <ContainerRow>
                             <img src = {JavaScript} alt = "JavaScript"/>
@@ -111,14 +120,14 @@ export default function Index() {
                             <h6> moderate </h6>
                         </ContainerRow>
                     </ContainerJavaScript>
-                    <ContainerPython>
+                    <ContainerJava>
                         <ContainerRow>
-                            <img src = {Python} alt = "Python"/>
-                            <h4> Python </h4>
+                            <img src = {Java} alt = "Java"/>
+                            <h4> Java </h4>
                             <h5> my knowledge: </h5>
                             <h6> moderate-basic </h6>
                         </ContainerRow>
-                    </ContainerPython>
+                    </ContainerJava>
                     <ContainerGit>
                         <ContainerRow>
                             <img src = {Git} alt = "Git"/>
@@ -127,6 +136,14 @@ export default function Index() {
                             <h6> basic </h6>
                         </ContainerRow>
                     </ContainerGit>
+                    <ContainerRobot>
+                        <ContainerRow>
+                            <img src = {Robot} alt = "Robot Framework"/>
+                            <h4> Robot Framework - automated tests </h4>
+                            <h5> my knowledge: </h5>
+                            <h6> moderate </h6>
+                        </ContainerRow>
+                    </ContainerRobot>
                     <ContainerExperience>
                     <h4 style = {{color: "#4EC9B0"}}> Studies: </h4>
                         <h4> • currently studying Computer Science in FCT - Faculdade de Ciências e Tecnologia - UNESP (since may 2018). </h4>

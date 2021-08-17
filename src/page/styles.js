@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-{/* autor: Pedro H. Z. Costa - last update: 08/16/2021 */}
+{/* autor: Pedro H. Z. Costa - last update: 08/17/2021 */}
 
 export const ContainerBase = styled.div`
     display: flex;
@@ -153,13 +153,13 @@ export const ContainerC = styled.div`
     }
 `;
 
-export const ContainerJava = styled.div`
+export const ContainerPython = styled.div`
     margin-top: 1.25vh;
     height: 10%;
     width: 87.5%;
     background-image: linear-gradient(to right, #3C3C3C, #1E1E1E);
     border-radius: 10px;
-    border: 0.54vh solid #E76F00;
+    border: 0.54vh solid #FFD637;
     text-align: center;
 
     h4 { 
@@ -283,13 +283,13 @@ export const ContainerJavaScript = styled.div`
     }
 `;
 
-export const ContainerPython = styled.div`
+export const ContainerJava = styled.div`
     margin-top: 1.25vh;
     height: 10%;
     width: 87.5%;
     background-image: linear-gradient(to right, #3C3C3C, #1E1E1E);
     border-radius: 10px;
-    border: 0.54vh solid #FFD637;
+    border: 0.54vh solid #E76F00;
     text-align: center;
 
     h4 { 
@@ -355,6 +355,71 @@ export const ContainerGit = styled.div`
     background-image: linear-gradient(to right, #3C3C3C, #1E1E1E);
     border-radius: 10px;
     border: 0.54vh solid #F05033;
+    text-align: center;
+
+    h4 { 
+        font-size: 1.05vw;
+        margin-bottom: 4px;
+        margin-inline-start: 1.5vh;
+        margin-block-start: 2.3vh;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 
+    }
+
+    h5 {
+        font-size: 1.05vw;
+        margin-bottom: 4px;
+        margin-inline-start: 4.5vh;
+        margin-block-start: 2.3vh;
+        font-weight: normal;
+        text-align: center;
+    }
+
+    h6 {
+        font-size: 1.05vw;
+        color: #4EC9B0;
+        margin-bottom: 4px;
+        margin-inline-start: 1vh;
+        margin-block-start: 2.3vh;
+        font-weight: normal;
+        text-align: center;
+    }
+
+    img {
+        height: 6vh;
+        width: 6vh;
+        border-radius: 50%;
+        margin-top: 0.6vh;
+        margin-right: 1.2vh;
+        margin-left: 1.2vh;
+    }
+
+    :hover { box-shadow:  0 0 15px #FFFFFF; }
+
+    @media (max-width: 568px) {
+        h4 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+
+        h5 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+
+        h6 {
+            font-size: 2.10vw;
+            margin-bottom: 2px;
+        }
+    }
+`;
+
+export const ContainerRobot = styled.div`
+    margin-top: 1.25vh;
+    height: 10%;
+    width: 87.5%;
+    background-image: linear-gradient(to right, #3C3C3C, #1E1E1E);
+    border-radius: 10px;
+    border: 0.54vh solid #EF5154;
     text-align: center;
 
     h4 { 
