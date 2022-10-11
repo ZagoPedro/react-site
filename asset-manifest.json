@@ -1,14 +1,14 @@
 {
-  "main.js": "/react-site/static/js/main.7ee0a783.chunk.js",
-  "main.js.map": "/react-site/static/js/main.7ee0a783.chunk.js.map",
+  "main.js": "/react-site/static/js/main.9a5b9470.chunk.js",
+  "main.js.map": "/react-site/static/js/main.9a5b9470.chunk.js.map",
   "static/css/1.3715bf54.chunk.css": "/react-site/static/css/1.3715bf54.chunk.css",
   "static/js/1.bf50c743.chunk.js": "/react-site/static/js/1.bf50c743.chunk.js",
   "static/js/1.bf50c743.chunk.js.map": "/react-site/static/js/1.bf50c743.chunk.js.map",
   "runtime~main.js": "/react-site/static/js/runtime~main.fe5cd0cb.js",
   "runtime~main.js.map": "/react-site/static/js/runtime~main.fe5cd0cb.js.map",
-  "static/media/index.css": "/react-site/static/media/roboto-cyrillic-ext-400-normal.c00467dc.woff2",
+  "static/media/index.css": "/react-site/static/media/roboto-latin-400-normal.15d9f621.woff2",
   "static/css/1.3715bf54.chunk.css.map": "/react-site/static/css/1.3715bf54.chunk.css.map",
   "index.html": "/react-site/index.html",
-  "precache-manifest.70db1320a0db00d93ac1a2eff22b5b21.js": "/react-site/precache-manifest.70db1320a0db00d93ac1a2eff22b5b21.js",
+  "precache-manifest.02ef7c77ae18e17e25918b6abb557457.js": "/react-site/precache-manifest.02ef7c77ae18e17e25918b6abb557457.js",
   "service-worker.js": "/react-site/service-worker.js"
 }

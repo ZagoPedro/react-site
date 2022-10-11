@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "7ee0a783db41d97ee52c",
-    "url": "/react-site/static/js/main.7ee0a783.chunk.js"
+    "revision": "9a5b94709635e815466d",
+    "url": "/react-site/static/js/main.9a5b9470.chunk.js"
   },
   {
     "revision": "bf50c743e527a3e0f871",
@@ -16,8 +16,16 @@ self.__precacheManifest = [
     "url": "/react-site/static/js/runtime~main.fe5cd0cb.js"
   },
   {
+    "revision": "c00467dc3792a8ab586955a3faefcac9",
+    "url": "/react-site/static/media/roboto-cyrillic-ext-400-normal.c00467dc.woff2"
+  },
+  {
     "revision": "28668857bef1b85c5748a482cf9b74af",
     "url": "/react-site/static/media/roboto-greek-400-normal.28668857.woff2"
+  },
+  {
+    "revision": "d9ac47c7e500fb7083b8d595eaf6fe12",
+    "url": "/react-site/static/media/roboto-cyrillic-400-normal.d9ac47c7.woff2"
   },
   {
     "revision": "62b936e168110e58e89e70ec82e22755",
@@ -40,15 +48,7 @@ self.__precacheManifest = [
     "url": "/react-site/static/media/roboto-latin-400-normal.15d9f621.woff2"
   },
   {
-    "revision": "d9ac47c7e500fb7083b8d595eaf6fe12",
-    "url": "/react-site/static/media/roboto-cyrillic-400-normal.d9ac47c7.woff2"
-  },
-  {
-    "revision": "c00467dc3792a8ab586955a3faefcac9",
-    "url": "/react-site/static/media/roboto-cyrillic-ext-400-normal.c00467dc.woff2"
-  },
-  {
-    "revision": "35d2a163e26588fcd9dda8e6af0bfe75",
+    "revision": "83442ba1fbb91bffb14d8ff91c00089e",
     "url": "/react-site/index.html"
   }
 ];
