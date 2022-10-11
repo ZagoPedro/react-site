@@ -1,14 +1,15 @@
 import { createGlobalStyle } from 'styled-components';
+import "@fontsource/roboto";
 
 const GlobalStyle = createGlobalStyle`
   body {
-    background-color: #1E1E1E;
-    font-family: Cambria;
+    background-color: #161A1E;
+    font-family: "Roboto";
     font-style: italic;
     color: #FFFFFF;
 
-    ::-webkit-scrollbar { background: #1E1E1E; }
-    ::-webkit-scrollbar-thumb { background: #3C3C3C; }
+    ::-webkit-scrollbar { background: #161A1E; }
+    ::-webkit-scrollbar-thumb { background: #1F2022; }
   }
 `;
 
