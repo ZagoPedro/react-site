@@ -1,21 +1,14 @@
 {
-  "files": {
-    "main.js": "/react-site/static/js/main.a6f4a12a.chunk.js",
-    "main.js.map": "/react-site/static/js/main.a6f4a12a.chunk.js.map",
-    "runtime-main.js": "/react-site/static/js/runtime-main.fb5448ee.js",
-    "runtime-main.js.map": "/react-site/static/js/runtime-main.fb5448ee.js.map",
-    "static/js/2.3391080c.chunk.js": "/react-site/static/js/2.3391080c.chunk.js",
-    "static/js/2.3391080c.chunk.js.map": "/react-site/static/js/2.3391080c.chunk.js.map",
-    "index.html": "/react-site/index.html",
-    "static/js/2.3391080c.chunk.js.LICENSE.txt": "/react-site/static/js/2.3391080c.chunk.js.LICENSE.txt",
-    "static/media/C.d0c6100b.png": "/react-site/static/media/C.d0c6100b.png",
-    "static/media/Python.d5a8d4fe.png": "/react-site/static/media/Python.d5a8d4fe.png",
-    "static/media/ReactJs.8d4eaf1f.png": "/react-site/static/media/ReactJs.8d4eaf1f.png",
-    "static/media/RobotFramework.bee6b654.png": "/react-site/static/media/RobotFramework.bee6b654.png"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.fb5448ee.js",
-    "static/js/2.3391080c.chunk.js",
-    "static/js/main.a6f4a12a.chunk.js"
-  ]
+  "main.js": "/react-site/static/js/main.7ee0a783.chunk.js",
+  "main.js.map": "/react-site/static/js/main.7ee0a783.chunk.js.map",
+  "static/css/1.3715bf54.chunk.css": "/react-site/static/css/1.3715bf54.chunk.css",
+  "static/js/1.bf50c743.chunk.js": "/react-site/static/js/1.bf50c743.chunk.js",
+  "static/js/1.bf50c743.chunk.js.map": "/react-site/static/js/1.bf50c743.chunk.js.map",
+  "runtime~main.js": "/react-site/static/js/runtime~main.fe5cd0cb.js",
+  "runtime~main.js.map": "/react-site/static/js/runtime~main.fe5cd0cb.js.map",
+  "static/media/index.css": "/react-site/static/media/roboto-cyrillic-ext-400-normal.c00467dc.woff2",
+  "static/css/1.3715bf54.chunk.css.map": "/react-site/static/css/1.3715bf54.chunk.css.map",
+  "index.html": "/react-site/index.html",
+  "precache-manifest.70db1320a0db00d93ac1a2eff22b5b21.js": "/react-site/precache-manifest.70db1320a0db00d93ac1a2eff22b5b21.js",
+  "service-worker.js": "/react-site/service-worker.js"
 }
