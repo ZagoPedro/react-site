@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-{/* autor: Pedro H. Z. Costa - last update: 10/11/2022 */}
+{/* autor: Pedro H. Z. Costa - last update: 10/18/2022 */}
 
 export const ContainerBase = styled.div`
     display: flex;
@@ -33,11 +33,6 @@ export const ContainerColumn = styled.div`
     flex-direction: column;
     align-items: center;
 
-    @media (max-width: 568px) { 
-        width: auto;
-        margin-bottom: 4.5vh;
-    }
-
     h5 {
         font-size: 1.05vw;
         color: #9AA0A6;
@@ -48,12 +43,22 @@ export const ContainerColumn = styled.div`
             cursor: pointer;
         }
     }
+
+    @media (max-width: 568px) { 
+        width: auto;
+        margin-bottom: 4.5vh;
+
+        h5 {
+            font-size: 3.00vw;
+            margin-top: -9vh;
+        }
+    }
 `;
 
 export const HomeImage = styled.img`
     width: 15vw;
     height: auto;
-    margin: 3.75vh;
+    margin: 3.5vh;
 
     :hover {
         -webkit-filter: drop-shadow(0px 0px 10px #FA5454);
@@ -61,15 +66,16 @@ export const HomeImage = styled.img`
     }
 
     @media (max-width: 568px) { 
-        width: 30vw;
+        width: 45vw;
         height: auto;
+        margin: 5vh;
     }
 `;
 
 export const HeaderContainer = styled.div`
     margin-top: 6.25vh;
     margin-bottom: 0.5vh;
-    height: 25vh;
+    height: 27vh;
     width: 87.5%;
     background-color: #1F2022;
     border-radius: 10px;
@@ -108,7 +114,7 @@ export const HeaderContainer = styled.div`
 
     @media (max-width: 568px) { 
         height: 35vh;
-        h5 { font-size: 5vw; }
+        h5 { font-size: 4vw; }
     }
 `;
 
@@ -228,6 +234,7 @@ export const ReactJsContainer = styled.div`
     }
 
     @media (max-width: 568px) {
+        margin-top: 6vh;
         h4 {
             font-size: 2.10vw;
             margin-bottom: 2px;
