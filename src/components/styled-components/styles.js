@@ -53,7 +53,7 @@ export const ContainerColumn = styled.div`
 export const HomeImage = styled.img`
     width: 15vw;
     height: auto;
-    margin: 4vh;
+    margin: 3.75vh;
 
     :hover {
         -webkit-filter: drop-shadow(0px 0px 10px #FA5454);
@@ -80,8 +80,7 @@ export const HeaderContainer = styled.div`
     overflow: auto;
 
     h1 {
-        color: #FA5454;
-        text-shadow: -2px 0 #101214, 0 2px #101214, 2px 0 #101214, 0 -2px #101214;
+        color: #FA2A2A;
         margin-inline-start: 0px;
         margin-block-start: 0px;
         margin-top: 3.5px; 
