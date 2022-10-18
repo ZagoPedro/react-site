@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { ContainerBase, ContainerRow, ContainerColumn, HeaderContainer, InterestsContainer, ExperienceContainer, ReactJsContainer } from "../components/styled-components/styles";
 import Chart from "../components/chart";
 
-{/* autor: Pedro H. Z. Costa - last update: 10/11/2022 */}
+{/* autor: Pedro H. Z. Costa - last update: 10/18/2022 */}
 
 const English = () => {
     return (
@@ -11,7 +11,8 @@ const English = () => {
             <ContainerBase>
                 <ContainerColumn>
                     <HeaderContainer>
-                        <h1> Hello, I am Pedro Zago! </h1>
+                        <h1> Welcome! </h1>
+                        <h4> I am Pedro Henrique Zago Costa. </h4>
                         <h4> I am a 22 y.o. Computer Science student! </h4>
                         <h4> e-mail: pedro_zago.costa@terra.com.br </h4>
                         <a href = "https://github.com/ZagoPedro" target = "_blank">
