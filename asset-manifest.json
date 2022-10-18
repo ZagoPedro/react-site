@@ -1,14 +1,21 @@
 {
-  "main.js": "/react-site/static/js/main.4e9ab235.chunk.js",
-  "main.js.map": "/react-site/static/js/main.4e9ab235.chunk.js.map",
-  "static/css/1.3715bf54.chunk.css": "/react-site/static/css/1.3715bf54.chunk.css",
-  "static/js/1.bf50c743.chunk.js": "/react-site/static/js/1.bf50c743.chunk.js",
-  "static/js/1.bf50c743.chunk.js.map": "/react-site/static/js/1.bf50c743.chunk.js.map",
-  "runtime~main.js": "/react-site/static/js/runtime~main.fe5cd0cb.js",
-  "runtime~main.js.map": "/react-site/static/js/runtime~main.fe5cd0cb.js.map",
-  "static/media/index.css": "/react-site/static/media/roboto-latin-ext-400-normal.87ace200.woff2",
-  "static/css/1.3715bf54.chunk.css.map": "/react-site/static/css/1.3715bf54.chunk.css.map",
-  "index.html": "/react-site/index.html",
-  "precache-manifest.6be5121b5ec0f193f59cf0500f013416.js": "/react-site/precache-manifest.6be5121b5ec0f193f59cf0500f013416.js",
-  "service-worker.js": "/react-site/service-worker.js"
+  "files": {
+    "main.css": "/react-site/static/css/main.d6df9765.css",
+    "main.js": "/react-site/static/js/main.98fe5e9b.js",
+    "static/media/roboto-all-400-normal.woff": "/react-site/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
+    "static/media/roboto-latin-400-normal.woff2": "/react-site/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
+    "static/media/roboto-cyrillic-ext-400-normal.woff2": "/react-site/static/media/roboto-cyrillic-ext-400-normal.804378952da8a10faae2.woff2",
+    "static/media/roboto-latin-ext-400-normal.woff2": "/react-site/static/media/roboto-latin-ext-400-normal.861b791f9de857a6e7bc.woff2",
+    "static/media/roboto-cyrillic-400-normal.woff2": "/react-site/static/media/roboto-cyrillic-400-normal.71a33b6b50457b2c903a.woff2",
+    "static/media/roboto-greek-400-normal.woff2": "/react-site/static/media/roboto-greek-400-normal.c35e4c3958e209d17b31.woff2",
+    "static/media/roboto-vietnamese-400-normal.woff2": "/react-site/static/media/roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2",
+    "static/media/roboto-greek-ext-400-normal.woff2": "/react-site/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
+    "index.html": "/react-site/index.html",
+    "main.d6df9765.css.map": "/react-site/static/css/main.d6df9765.css.map",
+    "main.98fe5e9b.js.map": "/react-site/static/js/main.98fe5e9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6df9765.css",
+    "static/js/main.98fe5e9b.js"
+  ]
 }
