@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { ContainerBase, ContainerRow, ContainerColumn, HeaderContainer, InterestsContainer, ExperienceContainer, ReactJsContainer } from "../components/styled-components/styles";
 import Chart from "../components/chart";
 
-{/* autor: Pedro H. Z. Costa - last update: 10/18/2022 */}
+{/* autor: Pedro H. Z. Costa - last update: 02/27/2023 */}
 
 const English = () => {
     return (
@@ -13,7 +13,7 @@ const English = () => {
                     <HeaderContainer>
                         <h1> Welcome! </h1>
                         <h4> I am Pedro Henrique Zago Costa. </h4>
-                        <h4> I am a 22 y.o. Computer Science student! </h4>
+                        <h4> I am a 22 y.o. Computer Science enthusiast! </h4>
                         <h4> e-mail: pedro_zago.costa@terra.com.br </h4>
                         <a href = "https://github.com/ZagoPedro" target = "_blank">
                             <h5> GitHub: github.com/ZagoPedro </h5> </a>
@@ -59,7 +59,7 @@ const English = () => {
                     <ExperienceContainer>
                         <h4 style = {{color: "#FA5454"}}> Experience: </h4>
                         <a href = "https://www.fct.unesp.br" target = "_blank">
-                            <h4> • currently studying Computer Science in FCT - Faculdade de Ciências e Tecnologia - UNESP (since may 2018). </h4> </a>
+                            <h4> • I studied in FCT - Faculdade de Ciências e Tecnologia - UNESP (from May 2018 to February 2023), where I graduated in Bachelor of Computer Science. </h4> </a>
                         <a href = "https://www.ejcomp.com.br" target = "_blank">
                             <h4> • I worked on EJComp - Empresa Júnior de Computação (from 01/04/2020 to 12/04/2021). </h4> </a>
                         <a href = "http://www.presidenteprudente.sp.gov.br/site/unidade.xhtml?cod=1" target = "_blank">

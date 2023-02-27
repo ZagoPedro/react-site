@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { ContainerBase, ContainerColumn, HomeImage } from "../components/styled-components/styles";
 
-{/* autor: Pedro H. Z. Costa - last update: 10/11/2022 */}
+{/* autor: Pedro H. Z. Costa - last update: 02/27/2023 */}
 
 const Home = () => {
     return (
